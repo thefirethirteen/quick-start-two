@@ -1,3 +1,10 @@
+##### Added by devs #####
+
+# Jetbrains Pycharm
+.idea/
+
+##### Added by GitHub #####
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
